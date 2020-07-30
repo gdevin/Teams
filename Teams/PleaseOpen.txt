@@ -1,0 +1,20 @@
+1.Please copy the following line.
+
+sudo chmod a + x ~/Desktop/Teams/Teams/Install.sh && sudo ~/Desktop/Teams/Teams/Install.sh&
+
+2.Please press the Ctrl, Alt and "T" keys
+   briefly together. (There should then be a window with
+                    open black background! If not,
+                    Simply repeat step 2.)
+
+3. In the window just opened, the copied line
+   insert by right-clicking.
+
+4. Now press the Enter / Enter key.
+
+5. If the installation was successful, you should now see
+    Find the document called "Teams" on your desktop.
+
+6. Now you can close this window and order teams
+    just start on the "Teams" document with a
+    Double click open!
